@@ -1,0 +1,11 @@
+/* styles.css */
+:root {
+  --primary: #6366f1;
+  --accent: #ec4899;
+}
+
+body {
+  @apply antialiased;
+}
+
+/* Add any extra custom styles here later */
